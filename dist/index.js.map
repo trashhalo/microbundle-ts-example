@@ -1,0 +1,1 @@
+{"version":3,"file":"index.js","sources":["../index.ts"],"sourcesContent":["import get from \"lodash/get\";\nconst obj = {a:'c'};\n\nexport const hello = () => get(obj, 'a');"],"names":["obj","a","get"],"mappings":"iFACMA,EAAM,CAACC,EAAE,qCAEYC,EAAIF,EAAK"}
